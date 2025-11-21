@@ -35,3 +35,4 @@
 
 - 'clean/Merged_hourly_data.csv' is the master dataset, with power, energy, date time, water level discharge per hour. It is missing revenue for now.
 
+Rule set test

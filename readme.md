@@ -34,5 +34,3 @@
 - The 'clean/cornwall_hourly_data.csv' is the same as 'cornwall_final_data.csv' except that we only have the rows on an hourly basis rather than showing the data at each recorded time.
 
 - 'clean/Merged_hourly_data.csv' is the master dataset, with power, energy, date time, water level discharge per hour. It is missing revenue for now.
-
-Rule set test

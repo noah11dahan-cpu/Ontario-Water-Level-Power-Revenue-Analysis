@@ -1,0 +1,18 @@
+Station Name - Nom de la station,Long Sault Dam
+Station Code - Code de la station,14805
+Latitude - Latitude,44.998333
+Longitude - Longitude,-74.861667
+Time Zone - Fuseau horaire,Canada/Eastern
+Description - Description,ST LAWRENCE RIVER
+Established - Établie,1964
+Resolution - Résolution,60 minutes - 60 minutes
+Active - Actif,true
+Type - Type,Permanent - Permanente
+Tidal Regime - Régime tidal,false
+
+Datums - Datums
+
+Code - Code,IGLD85
+Offset - Décalage,72.5
+
+Heights - Hauteurs

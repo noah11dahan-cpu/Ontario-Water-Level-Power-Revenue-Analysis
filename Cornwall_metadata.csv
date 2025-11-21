@@ -1,0 +1,26 @@
+Station Name - Nom de la station,Cornwall
+Station Code - Code de la station,14870
+Latitude - Latitude,45.01473
+Longitude - Longitude,-74.711514
+Time Zone - Fuseau horaire,Canada/Eastern
+Description - Description,ST LAWRENCE RIVER
+Resolution - Résolution,3 minutes - 3 minutes
+Active - Actif,true
+Water Body Type - Type d'étendue d'eau,River - Rivière
+Type - Type,Permanent - Permanente
+Tidal Regime - Régime tidal,false
+
+Datums - Datums
+
+Code - Code,IGLD85
+Offset - Décalage,46.4
+
+Heights - Hauteurs
+
+Code - Code,HRWL
+Name - Nom,Highest Recorded Water Level - Plus haut niveau d'eau enregistré
+Value - Valeur,1.47
+
+Code - Code,LRWL
+Name - Nom,Lowest Recorded Water Level - Plus bas niveau d'eau enregistré
+Value - Valeur,-0.31
